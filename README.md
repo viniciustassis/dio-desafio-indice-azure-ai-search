@@ -55,8 +55,7 @@ Observação: Os recursos do Azure AI Search e dos serviços Azure AI devem esta
 - Acesse a Loja de conhecimento através do recurso do Azure AI Search ou diretamente via Azure Storage Explorer, se os dados estiverem armazenados em uma conta de armazenamento do Azure.
 - Analise os dados enriquecidos para identificar padrões, tendências e insights valiosos que podem ser aplicados para melhorar a experiência do cliente ou informar decisões de negócios.
 
-## Conclusão
+## Insights Principais
 
-Automatizar a organização, a busca e a análise de dados reduz a necessidade de intervenção manual.
-
-Ferramentas de busca enriquecidas por IA podem oferecer recomendações personalizadas nas plataformas de E-commerce para análises de sentimentos em avaliações de produtos e buscas visuais, melhorando a conversão de vendas.
+- Automatizar a organização, a busca e a análise de dados reduz a necessidade de intervenção manual.
+- Ferramentas de busca enriquecidas por IA podem oferecer recomendações personalizadas nas plataformas de E-commerce para análises de sentimentos em avaliações de produtos e buscas visuais, melhorando a conversão de vendas.
